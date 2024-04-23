@@ -1,5 +1,9 @@
 # React + TypeScript + Vite
 
+# What is the app?
+
+"An app has been created to verify numbers.”
+
 # How to start the app
 
 1-To run frontend first write at command   
